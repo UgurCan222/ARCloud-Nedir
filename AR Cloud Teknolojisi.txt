@@ -1,0 +1,6 @@
+Herkese merhabalar, bugün AR Cloud hakkında az bilgi olduğu için elimden geldiğince açıklayıcı bir makale yazmak istedim.
+AR Cloud, geniş bir kavram olmakla birlikte, artırılmış gerçeklik (AR) teknolojisi için bir temel altyapı oluşturmak için kullanılan bir terimdir. AR Cloud, gerçek dünya etkileşimleriyle zenginleştirilmiş bir dijital tabaka oluşturur ve bu tabaka, AR uygulamaları tarafından kullanılabilir.
+
+AR Cloud, kullanıcıların gerçek dünya ile dijital içeriği birleştirebildiği artırılmış gerçeklik uygulamalarını desteklemek için birçok farklı teknolojiyi bir araya getirir. Bu teknolojiler arasında konumlandırma, haritalama, sensör verileri, 3D modelleme ve bulut hesaplama yer alır.
+
+AR Cloud, bir kullanıcının AR uygulamasıyla gerçek dünya nesnelerine veya konumlara dokunarak, üzerlerine dijital nesneler yerleştirmesine olanak tanır. Bu sayede, gerçek dünya ile dijital içeriği birleştiren zengin deneyimler yaratılabilir. AR Cloud ayrıca, birden fazla kullanıcının aynı dijital tabakaya erişmesine olanak tanıyarak, işbirliğine dayalı deneyimlerin de geliştirilmesine imkan sağlar.
